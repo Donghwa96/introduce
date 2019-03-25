@@ -1,0 +1,115 @@
+div.jumbotron.jumbotron-fluid {
+    height: 128px;
+    position: relative;
+    background-color: #CEF6F5;
+}
+div.jumbotron.jumbotron-fluid > div.container {
+    position: absolute;
+    bottom: 35px;
+    right: 70px;
+}
+div.jumbotron.jumbotron-fluid > div.container > h1 {
+    letter-spacing: 15px;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+    color: #5858FA;
+}
+div.jumbotron.jumbotron-fluid > div.container > h3 {
+    font-size: 25px;
+    text-align: right;
+    letter-spacing: 15px;
+    left: 150px;
+    font-family: 'Indie Flower', cursive;
+    color: #848484;
+}
+div.card0 {
+    width: 16rem;
+    float: left;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+div.card, div.card5, div.card6, div.card7 {
+    width: 16rem;
+    float: left;
+    margin-left: 70px;
+    margin-right: 80px;
+}
+div.card8 {
+    width: 16rem;
+    position: absolute;
+    right: 200px;
+    top: 190px;
+}
+div.card5 > img {
+    transform: rotate(180deg);
+    border-style: solid;
+    border-color: #A9BCF5;
+}
+div.card6 > img {
+    height: 192px;
+    border-style: solid;
+    border-color: #A9BCF5;
+}
+div.card7 > img {
+    border-style: solid;
+    border-color: #A9BCF5;
+}
+div.row1 {
+    margin-top: 40px;
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: #585858;
+}
+div.row2, div.row3 {
+    margin-top: 55px;
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: #585858;
+}
+div.container2 {
+    margin: 120px 7% 50px 7%;
+    display: inline-block;
+    text-align: center;
+}
+div.container3 > img {
+    float: right;
+}
+div.container4 {
+    margin: 80px 7% 50px 7%;
+    display: inline-block;
+    text-align: center;
+}
+ul.list-group.list-group-flush> li.list-group-item.a {
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-family: 'Jua', sans-serif;
+    background-color: cornflowerblue;
+    color: white;
+}
+li.list-group-item {
+    font-family: 'Gaegu', cursive;
+    font-size: 27px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    border: 2px;
+    height: 55px;
+}
+li.list-group-item b {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+ul > li {
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    margin: 30px 40px 30px 0;
+}
